@@ -1,2 +1,9 @@
-# algo
-solve algorithm problems
+# 알고리즘 지식 창고
+#### BOJ 태그별 문제 풀기 : `23.05.14 ~
+
+https://www.acmicpc.net/problem/tags
+
+1. 태그별 폴더 생성
+
+2. README 작성 : 태그별 주요 개념 정리, 관련 문제 번호 기록
+3. 문제 풀이 : 30분 제한시간 내 풀기 -> 못풀면 해설 보고 공부하기
