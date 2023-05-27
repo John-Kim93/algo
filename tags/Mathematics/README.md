@@ -7,8 +7,8 @@ https://www.acmicpc.net/problemset?sort=ac_desc&algo=124
 | No.   | 문제 이름       | 문제 링크                             | 체크 |
 | ----- | --------------- | ------------------------------------- | ---- |
 | 1759  | 암호 만들기     | https://www.acmicpc.net/problem/1759  | O    |
-| 1929  | 소수 구하기     | https://www.acmicpc.net/problem/1929  |      |
-| 9461  | 파도반 수열     | https://www.acmicpc.net/problem/9461  |      |
+| 1929  | 소수 구하기     | https://www.acmicpc.net/problem/1929  | O    |
+| 9461  | 파도반 수열     | https://www.acmicpc.net/problem/9461  | O    |
 | 4948  | 베르트랑 공준   | https://www.acmicpc.net/problem/4948  |      |
 | 1010  | 다리 놓기       | https://www.acmicpc.net/problem/1010  |      |
 | 1026  | 보물            | https://www.acmicpc.net/problem/1026  |      |
