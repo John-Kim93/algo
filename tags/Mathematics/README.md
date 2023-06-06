@@ -9,7 +9,7 @@ https://www.acmicpc.net/problemset?sort=ac_desc&algo=124
 | 1759  | 암호 만들기     | https://www.acmicpc.net/problem/1759  | O    |
 | 1929  | 소수 구하기     | https://www.acmicpc.net/problem/1929  | O    |
 | 9461  | 파도반 수열     | https://www.acmicpc.net/problem/9461  | O    |
-| 4948  | 베르트랑 공준   | https://www.acmicpc.net/problem/4948  |      |
+| 4948  | 베르트랑 공준   | https://www.acmicpc.net/problem/4948  | O    |
 | 1010  | 다리 놓기       | https://www.acmicpc.net/problem/1010  |      |
 | 1026  | 보물            | https://www.acmicpc.net/problem/1026  |      |
 | 9020  | 골드바흐의 추측 | https://www.acmicpc.net/problem/9020  |      |
